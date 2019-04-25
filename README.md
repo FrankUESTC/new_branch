@@ -2,7 +2,8 @@
 # git 教程
 <<<<<<< HEAD
 
-= new_branch 
+- new_branch 
 - fix_b
 - feature-c
 - test
+- feature-d
