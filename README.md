@@ -4,3 +4,5 @@
 
 = new_branch 
 - fix_b
+- feature-c
+- test
